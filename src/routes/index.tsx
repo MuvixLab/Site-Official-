@@ -336,7 +336,7 @@ function About() {
 }
 
 const TEAM = [
-  { img: team1, name: "Luan Porto", role: "CEO & Fundador", desc: "Responsável por ditar a visão estratégica da empresa, conectar tecnologia aos objetivos de negócio e liderar o crescimento do time" },
+  { img: team1, name: "Luan Porto", role: "CEO & Co-Fundador", desc: "Responsável por ditar a visão estratégica da empresa, conectar tecnologia aos objetivos de negócio e liderar o crescimento do time" },
   { img: team2, name: "Arthur Cidade", role: "Consultor de Vendas", desc: "Especialista em entender as dores dos clientes, desenhar soluções personalizadas e fechar parcerias de alto valor." },
   { img: team3, name: "Miguel Augusto", role: "CTO & Fundador", desc: "Líder técnico focado na evolução da nossa stack, segurança da informação e na arquitetura de sistemas robustos.." },
   { img: team4, name: "--", role: "Digital Marketing", desc: "Responsável pelo posicionamento digital da marca, gestão de canais, growth hacking e análise de métricas para acelerar o crescimento." },
